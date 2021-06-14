@@ -25,7 +25,7 @@ exports.lvlnoon = () => {
 }
 
 exports.noregis = () => {
-	return`*「 NO REGISTRADO 」*\n\n*Registrate asi, ${prefix}registro Nombre|Edad* \n*Ejemplo ${prefix}registro GuaMiro|14*`
+	return`*「 NO REGISTRADO 」*\n\n*Registrate asi, ${prefix}registro Nombre|Edad* \n*Ejemplo ${prefix}registro Iruma|16*`
 }
 
 exports.rediregis = () => {
