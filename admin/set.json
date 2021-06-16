@@ -2,7 +2,7 @@
 	"limitawal" : 30,
 	"memberlimit" : 0,
 	"cr" : "*ARCEUS VERIFICÓ ESTE BOT*",
-	"BotPrefix" : "#",
+	"BotPrefix" : "!",
 	"owner" : "50241033780",
 	"autor" : "Juan bot",
 	"pack" : "@Juan_delValle"
