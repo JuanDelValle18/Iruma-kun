@@ -25,7 +25,7 @@ exports.lvlnoon = () => {
 }
 
 exports.noregis = () => {
-	return`*「 NO REGISTRADO 」*\n\n*Registrate asi, ${prefix}registro Nombre|Edad* \n*Ejemplo ${prefix}registro Iruma|16*`
+	return`*「 NO REGISTRADO 」*\n\n*Registrate asi, ${prefix}registro Nombre|Edad* \n*Ejemplo ${prefix}registro Destroyer|16*`
 }
 
 exports.rediregis = () => {
@@ -265,10 +265,10 @@ ${a}❏OWNER MENU${a}
  ${a}❏GRACIAS A${a}
  ${a}│${a}
  ${a}│ • JUAN <editor>${a}
- ${a}│ • Iruma-kun <nombre del bot>${a}
+ ${a}│ • Destroyer-Bot 4.1 <nombre del bot>${a}
  ${a}│ • Pokémon Go <público dirigido>${a}
  ${a}│${a}
- ${a}╰ • NOTA : PROYECTO Iruma-kun!${a}
+ ${a}╰ • NOTA : PROYECTO Destroyer-Bot 4.1${a}
 `
 } else if (!isGroup) {
     return `
@@ -402,10 +402,10 @@ ${a}❏OWNER MENU${a}
  ${a}❏GRACIAS A${a}
  ${a}│${a}
  ${a}│ • JUAN <editor>${a}
- ${a}│ • Iruma-kun <nombre del bot>${a}
+ ${a}│ • Destroyer-Bot 4.1 <nombre del bot>${a}
  ${a}│ • Pokémon Go <público dirigido>${a}
  ${a}│${a}
- ${a}╰ • NOTA : PROYECTO Iruma-kun!${a}
+ ${a}╰ • NOTA : PROYECTO Destroyer-Bot 4.1${a}
 `
 }
 }
@@ -458,9 +458,9 @@ exports.afkDone = (pushname) => {
 }
 
 exports.left = (num) => {
-	return`Se ha ido un/a Iruma-seguidor/a @${num.split('@')[0]} ojalá vuelvas pronto.`
+	return`Se ha ido un/a Destructor/a @${num.split('@')[0]} ojalá vuelvas pronto.`
 }
 
 exports.welcome = ( mdata , num ) => {
-	return`Bienvenid@ @${num.split('@')[0]}\ al grupo *${mdata.subject}* ahora eres un/a Iruma-seguidor/a`
+	return`Bienvenid@ @${num.split('@')[0]}\ al grupo *${mdata.subject}* ahora eres un/a Destructor/a`
 }
